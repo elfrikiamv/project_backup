@@ -16,5 +16,10 @@ Public Class Form1
             My.Computer.FileSystem.CreateDirectory("F:\project_backup\" & DateString & "\big_data\projects")
             My.Computer.FileSystem.CopyDirectory("C:\big_data\projects", "F:\project_backup\" & DateString & "\big_data\projects", True)
         End If
+
+        MsgBox("Ya quedo!", MsgBoxStyle.Information, "#")
+
+        End
+
     End Sub
 End Class
