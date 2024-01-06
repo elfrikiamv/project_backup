@@ -1,73 +1,33 @@
-<a name="readme-top"></a>
-
-<!-- PROJECT SHIELDS -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
-  <h3 align="center">project_backup</h3>
-  <p align="center">
-    Safeguard Your Data with project_backup!
-    <br />
-    <a href="https://github.com/elfrikiamv/project_backup/"><strong>Explore the Documentation »</strong></a>
-    <br />
-    <br />
-    <a href="http://elfrikiamv.tech/project-backup/">View Demo</a>
-    ·
-    <a href="https://github.com/elfrikiamv/project_backup/issues/">Report Bug</a>
-  </p>
+  <img height="92" alt="elfrikiamv-logo" src="https://elfrikiamv.com/media/img/logo-elfrikiamv-dev-light-en-horizontal.webp">
 </p>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li><a href="#built-with">Built With</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+<img align="right" width="342" height="780" alt="purple waves" src="https://elfrikiamv.com/media/img/bg-purple-wave.webp"/>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<p align="start">
+  <img height="128" alt="logo-project-backup" src="https://elfrikiamv.com/media/img/logo-project-backup.webp"/>
+  
+</p>
+<a href="http://elfrikiamv.com/project-backup/">View Demo</a>
+    ·
+<a href="https://github.com/elfrikiamv/project_backup/issues/">Report Bug</a>
+<div>
 
-project_backup is a Visual Basic .NET project designed to provide a reliable solution for copying important directories to another location. With project_backup, you can safeguard your critical data, ensuring its safety in case of file loss or corruption. This project offers a user-friendly interface and easy-to-use features to streamline the backup process.
+## Project_backup.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Project_backup is a Visual Basic .NET project designed to provide a reliable solution for copying important directories to another location. With project_backup, you can safeguard your critical data, ensuring its safety in case of file loss or corruption. This project offers a user-friendly interface and easy-to-use features to streamline the backup process.
 
-### Built With
+## Built With.
 
-project_backup is built using the following technologies:
+- Visual Basic .NET.
 
-* Visual Basic .NET - A versatile programming language for building Windows applications.
+## License.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Distributed under the GNU General Public License v3.0
+See `LICENSE.txt` for more information.
 
-<!-- LICENSE -->
-## License
+## Contact.
 
-project_backup is licensed under the GNU General Public License v3.0. For more details, please see the `LICENSE` file.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTACT -->
-## Contact
-
-For any inquiries or collaboration opportunities, please feel free to reach out:
-
-* LinkedIn - [@elfrikiamv](https://www.linkedin.com/in/elfrikiamv/)
-* Email - contacto.elfrikiamv@gmail.com
-
-Project Link: [https://github.com/elfrikiamv/project_backup](https://github.com/elfrikiamv/project_backup)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/elfrikiamv/
-
+- Linkedin - **_[@elfrikiamv](https://www.linkedin.com/in/elfrikiamv/)_**.
+- Email - **_contact@elfrikiamv.com_**.
+- My website - **_[elfrikiamv.com](https://elfrikiamv.com)_**.
